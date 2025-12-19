@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "customers": [
+    {
+      "id": "b20e",
+      "content": [
+        {
+          "code": "101111",
+          "dmj": 1765974849460,
+          "id": "2",
+          "externalId": "",
+          "adresseFacturation": {
+            "codePostal": "49330",
+            "ville": "ETRICHE",
+            "adresse1": "LA GARE",
+            "adresse2": "ETRICHE",
+            "adresse3": "",
+            "adresse4": "",
+            "lignes": [
+              "LA GARE",
+              "ETRICHE",
+              "",
+              ""
+            ]
+          },
+          "email": "veillon@acb-construction.fr",
+          "nom": "ACB CONSTRUCTION BOIS",
+          "periodeFacturation": "MENSUEL",
+          "secteur": "SE",
+          "societe": "001",
+          "telephone": "0241426057",
+          "configuration": {},
+          "echeance": {
+            "nbj": "30",
+            "type": "FIN_DE_MOIS",
+            "jour": 15,
+            "taux": "100"
+          },
+          "encours": {
+            "delaiRetard": 1,
+            "blocageRetardReglement": false,
+            "encoursPartage": "AUCUN",
+            "priseEnCompteCommandes": "TOUTES_LES_COMMANDES"
+          }
+        }
+      ],
+      "page": 0,
+      "size": 50,
+      "numberOfElements": 1,
+      "totalPages": 1,
+      "totalElements": 1,
+      "first": true,
+      "last": true,
+      "maxSince": 1765974849460
+    },
+    {
+      "id": "6601",
+      "content": [
+        {
+          "code": "101111",
+          "dmj": 1766044011950,
+          "id": "2",
+          "externalId": "",
+          "adresseFacturation": {
+            "codePostal": "49330",
+            "ville": "ETRICHE",
+            "adresse1": "LA GARE",
+            "adresse2": "ETRICHE",
+            "adresse3": "",
+            "adresse4": "",
+            "lignes": [
+              "LA GARE",
+              "ETRICHE",
+              "",
+              ""
+            ]
+          },
+          "email": "veillon@acb-construction.fr",
+          "nom": "ACB CONSTRUCTION BOIS",
+          "periodeFacturation": "MENSUEL",
+          "secteur": "SE",
+          "societe": "001",
+          "telephone": "0241426057",
+          "configuration": {},
+          "echeance": {
+            "nbj": "30",
+            "type": "FIN_DE_MOIS",
+            "jour": 15,
+            "taux": "100"
+          },
+          "encours": {
+            "delaiRetard": 1,
+            "blocageRetardReglement": false,
+            "encoursPartage": "AUCUN",
+            "priseEnCompteCommandes": "TOUTES_LES_COMMANDES"
+          }
+        }
+      ],
+      "page": 0,
+      "size": 50,
+      "numberOfElements": 1,
+      "totalPages": 1,
+      "totalElements": 1,
+      "first": true,
+      "last": true,
+      "maxSince": 1766044011950
+    }
+  ]
+}
